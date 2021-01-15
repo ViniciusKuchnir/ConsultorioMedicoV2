@@ -12,6 +12,8 @@ namespace ConsultorioMedicoFormulario
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
         [STAThread]
+
+        //Teste
         static void Main()
         {
             Application.EnableVisualStyles();
